@@ -3,200 +3,150 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Siyuan Tang
+    tagline: Ph.D. student
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
-    citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
+    email: tangsi@iu.edu
+    #phone: 012 345 6789
+    #timezone: America/Cancun Timezone
+    #citizenship:
+    #website: blog.webjeda.com #do not add http://
+    #linkedin: alandoe
+    #xing: alandoe
+    github: opmusic
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    #twitter: '@webjeda'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: /assets/pdf/cv.pdf
 
-    languages:
-      title: Languages
-      info:
-        - idiom: English
-          level: Native
+    #languages:
+    #  title: Languages
+    #  info:
+    #    - idiom: English
+    #      level: Native
 
-        - idiom: French
-          level: Professional
+    #    - idiom: French
+    #      level: Professional
 
-        - idiom: Spanish
-          level: Professional
+    #    - idiom: Spanish
+    #      level: Professional
 
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Bicycling
           link:
 
-        - item: Snowboarding
-          link:
-
-        - item: Cooking
+        - item: Hiking
           link:
 
 career-profile:
-    title: Career Profile
+    title: About Me
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I am a fourth-year Ph.D. student in the School of Informatics, Com- puting, and Engineering at Indiana University, Bloomington. I joined the Sys- tem Security Lab under the supervision of Prof. Xiaofeng Wang. So far, I have led successfully two research projects and published four papers on top secu- rity conferences. My research focuses on mobile/web SDK security and threat intelligence.
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+      - degree: Ph.D. in Computer Science
+        university: Indiana University Bloomington
+        time: 2018 - Now
+      - degree: MS in Computer Science & Technology
+        university: Nanjing University
+        time: 2014 - 2017
+      - degree: BS in Computer Science & Technology
+        university: Nanjing University
+        time: 2010 - 2014
+
 experiences:
-    title: Experiences
+    title: Internship
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Software Developer (Intern)
+        time: 2019.06 - 2019.08
+        company: Tencent CSIG, Shenzhen
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          I had an internship in Tencent, CSIG to build a threat intelligence platform, which automatically collects the latest sink-holed domains from sinkhole oper- ators. The product was integrated into their internal security system.
+
 projects:
-    title: Projects
+    title: Research Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Mobile/Web SDK Security
+        #link: "#hook"
+        tagline: My previous research projects investigated the security impacts of mobile/web SDKs, including third-party proxy SDKs and P2P service SDKs. Through a large- scale scanning of over 2M Android APKs, we identified 963 Android apps in- tegrated with third-party proxy SDKs, which utilize their customers as proxy peers without proper user consent. In another project, we also discovered 134 highly popular video websites and 38 Android apps integrated with a P2P video streaming service, which are proven to have serious security and privacy prob- lems, including content pollution and IP leakage. Our findings revealed the concerning security issues on mobile/web SDKs, which may affect millions of end users. One of our work has been published by NDSS 2021 and the other is under peer review.
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Threat Intelligence
+        #link: "#"
+        tagline: Another important issue of my research is threat intelligence. In this area, one of the kernel challenges is to collect the security intelligence timely. To resolve such challenge, we came up with a novel solution to collect threat intelligence from social networks like Twitter. In one of our research, we collected over 20K spam SMS from tweets attached with SMS screenshots. We designed a framework, SpamHunter, to automatically recognize the reported spam SMS texts and URLs. Such dataset turns out to be more diverse and timely than existing spam SMS collections and threat intelligence engines, i.e., VirusTotal. We also designed an automatic evaluation framework to test the feasibility of these spam SMS texts against the existing anti-spam systems. Our submission has been accepted by CCS 2022 in the first cycle
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: Domain Security
+        #link: "#"
+        tagline: My previous research with Eihal Alowaisheq found long-existing vulnerabilities in DNS sinkhole and domain hosting mechanisms, including 620K taken-down domains and 628 vulnerable domains.
 
 publications:
     title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+    intro:
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: Clues in Tweets: Twitter-Guided Discovery and Analysis of SMS Spam
+        link: https://arxiv.org/abs/2204.01233
+        authors: Siyuan Tang, Xianghang Mi, Ying Li, Xiaofeng Wang, Kai Chen
+        conference: CCS, 2022
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: Your Phone is My Proxy: Detecting and Understanding Mobile Proxy Networks
+        link: https://par.nsf.gov/servlets/purl/10273288
+        authors: Xianghang Mi, Siyuan Tang, Zhengyi Li, Xiaojing Liao, Feng Qian, XiaoFeng Wang
+        conference: NDSS, 2021
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: Zombie Awakening: Stealthy Hijacking of Active Domains Through DNS Hosting Referral
+        link: https://www.xiaojingliao.com/uploads/9/7/0/2/97024238/ccs20-stalens.pdf
+        authors: Eihal Alowaisheq, Siyuan Tang, Zhihao Wang, Fatemah Alharbi, Xiaojing Liao, XiaoFeng Wang
+        conference: CCS, 2020
 
-skills:
-    title: Skills &amp; Proficiency
+      - title: Cracking Wall of Confinement: Understanding and Analyzing Malicious Domain Takedowns
+        link: https://par.nsf.gov/servlets/purl/10098095
+        authors: Eihal Alowaisheq, Peng Wang, Sumayah Alrwais, Xiaojing Liao, XaioFeng Wang, Tasneem Alowaisheq, XiangHang Mi, Siyuan Tang, Baojun Liu
+        conference: NDSS, 2019 (Distinguished Paper Award)
 
-    toolset:
-      - name: Python & Django
-        level: 98%
+      - title: Competitive Auctions for Cost-aware Cellular Traffic Offloading with Opti- mized Capacity Gain
+        link: https://ieeexplore.ieee.org/abstract/document/7524496
+        authors: Yuan Zhang, Siyuan Tang, Tingting Chen, Sheng Zhong
+        conference: INFOCOM, 2016
 
-      - name: Javascript & jQuery
-        level: 98%
+      - title: Designing Secure and Dependable Mobile Sensing Mechanisms With Revenue Guarantees
+        link: https://ieeexplore.ieee.org/abstract/document/7265043
+        authors: Yuan Zhang, He Zhang, Siyuan Tang, Sheng Zhong
+        conference: TIFS, 2016
 
-      - name: Angular
-        level: 98%
+#skills:
+#    title: Skills &amp; Proficiency
 
-      - name: HTML5 & CSS
-        level: 95%
+#    toolset:
+#      - name: Python & Django
+#        level: 98%
 
-      - name: Ruby on Rails
-        level: 85%
+#      - name: Javascript & jQuery
+#        level: 98%
 
-      - name: Sketch & Photoshop
-        level: 60%
+#      - name: Angular
+#        level: 98%
+
+#      - name: HTML5 & CSS
+#        level: 95%
+
+#      - name: Ruby on Rails
+#        level: 85%
+
+#      - name: Sketch & Photoshop
+#        level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
