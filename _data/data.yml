@@ -96,32 +96,32 @@ publications:
     title: Publications
     intro:
     papers:
-      - title: Clues in Tweets: Twitter-Guided Discovery and Analysis of SMS Spam
+      - title: "Clues in Tweets: Twitter-Guided Discovery and Analysis of SMS Spam"
         link: https://arxiv.org/abs/2204.01233
         authors: Siyuan Tang, Xianghang Mi, Ying Li, Xiaofeng Wang, Kai Chen
         conference: CCS, 2022
 
-      - title: Your Phone is My Proxy: Detecting and Understanding Mobile Proxy Networks
+      - title: "Your Phone is My Proxy: Detecting and Understanding Mobile Proxy Networks"
         link: https://par.nsf.gov/servlets/purl/10273288
         authors: Xianghang Mi, Siyuan Tang, Zhengyi Li, Xiaojing Liao, Feng Qian, XiaoFeng Wang
         conference: NDSS, 2021
 
-      - title: Zombie Awakening: Stealthy Hijacking of Active Domains Through DNS Hosting Referral
+      - title: "Zombie Awakening: Stealthy Hijacking of Active Domains Through DNS Hosting Referral"
         link: https://www.xiaojingliao.com/uploads/9/7/0/2/97024238/ccs20-stalens.pdf
         authors: Eihal Alowaisheq, Siyuan Tang, Zhihao Wang, Fatemah Alharbi, Xiaojing Liao, XiaoFeng Wang
         conference: CCS, 2020
 
-      - title: Cracking Wall of Confinement: Understanding and Analyzing Malicious Domain Takedowns
+      - title: "Cracking Wall of Confinement: Understanding and Analyzing Malicious Domain Takedowns"
         link: https://par.nsf.gov/servlets/purl/10098095
         authors: Eihal Alowaisheq, Peng Wang, Sumayah Alrwais, Xiaojing Liao, XaioFeng Wang, Tasneem Alowaisheq, XiangHang Mi, Siyuan Tang, Baojun Liu
         conference: NDSS, 2019 (Distinguished Paper Award)
 
-      - title: Competitive Auctions for Cost-aware Cellular Traffic Offloading with Opti- mized Capacity Gain
+      - title: "Competitive Auctions for Cost-aware Cellular Traffic Offloading with Opti- mized Capacity Gain"
         link: https://ieeexplore.ieee.org/abstract/document/7524496
         authors: Yuan Zhang, Siyuan Tang, Tingting Chen, Sheng Zhong
         conference: INFOCOM, 2016
 
-      - title: Designing Secure and Dependable Mobile Sensing Mechanisms With Revenue Guarantees
+      - title: "Designing Secure and Dependable Mobile Sensing Mechanisms With Revenue Guarantees"
         link: https://ieeexplore.ieee.org/abstract/document/7265043
         authors: Yuan Zhang, He Zhang, Siyuan Tang, Sheng Zhong
         conference: TIFS, 2016
