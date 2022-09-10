@@ -53,7 +53,7 @@ sidebar:
 career-profile:
     title: About Me
     summary: |
-      I am a fourth-year Ph.D. student in the School of Informatics, Com- puting, and Engineering at Indiana University, Bloomington. I joined the Sys- tem Security Lab under the supervision of Prof. Xiaofeng Wang. So far, I have led successfully two research projects and published four papers on top secu- rity conferences. My research focuses on mobile/web SDK security and threat intelligence.
+      I am a fourth-year Ph.D. student in the School of Informatics, Computing, and Engineering at Indiana University, Bloomington.  I joined the System Security Lab under the supervision of Prof. Xiaofeng Wang. So far, I have led successfully two research projects and published four papers on top security conferences. My research focuses on mobile/web SDK security and threat intelligence.
 education:
     title: Education
     info:
@@ -74,7 +74,7 @@ experiences:
         time: 2019.06 - 2019.08
         company: Tencent CSIG, Shenzhen
         details: |
-          I had an internship in Tencent, CSIG to build a threat intelligence platform, which automatically collects the latest sink-holed domains from sinkhole oper- ators. The product was integrated into their internal security system.
+          I had an internship in Tencent, CSIG to build a threat intelligence platform, which automatically collects the latest sink-holed domains from sinkhole operators. The product was integrated into their internal security system.
 
 projects:
     title: Research Projects
@@ -82,11 +82,11 @@ projects:
     assignments:
       - title: Mobile/Web SDK Security
         #link: "#hook"
-        tagline: My previous research projects investigated the security impacts of mobile/web SDKs, including third-party proxy SDKs and P2P service SDKs. Through a large- scale scanning of over 2M Android APKs, we identified 963 Android apps in- tegrated with third-party proxy SDKs, which utilize their customers as proxy peers without proper user consent. In another project, we also discovered 134 highly popular video websites and 38 Android apps integrated with a P2P video streaming service, which are proven to have serious security and privacy prob- lems, including content pollution and IP leakage. Our findings revealed the concerning security issues on mobile/web SDKs, which may affect millions of end users. One of our work has been published by NDSS 2021 and the other is under peer review.
+        tagline: My previous research projects investigated the security impacts of mobile/web SDKs, including third-party proxy SDKs and P2P service SDKs. Through a large-scale scanning of over 2M Android APKs, we identified 963 Android apps integrated with third-party proxy SDKs, which utilize their customers as proxy peers without proper user consent. In another project, we also discovered 134 highly popular video websites and 38 Android apps integrated with a P2P video streaming service, which are proven to have serious security and privacy problems, including content pollution and IP leakage. Our findings revealed the concerning security issues on mobile/web SDKs, which may affect millions of end users. One of our work has been published by NDSS 2021 and the other is under peer review.
 
       - title: Threat Intelligence
         #link: "#"
-        tagline: Another important issue of my research is threat intelligence. In this area, one of the kernel challenges is to collect the security intelligence timely. To resolve such challenge, we came up with a novel solution to collect threat intelligence from social networks like Twitter. In one of our research, we collected over 20K spam SMS from tweets attached with SMS screenshots. We designed a framework, SpamHunter, to automatically recognize the reported spam SMS texts and URLs. Such dataset turns out to be more diverse and timely than existing spam SMS collections and threat intelligence engines, i.e., VirusTotal. We also designed an automatic evaluation framework to test the feasibility of these spam SMS texts against the existing anti-spam systems. Our submission has been accepted by CCS 2022 in the first cycle
+        tagline: Another important issue of my research is threat intelligence. In this area, one of the kernel challenges is to collect the security intelligence timely. To resolve such challenge, we came up with a novel solution to collect threat intelligence from social networks like Twitter. In one of our research, we collected over 20K spam SMS from tweets attached with SMS screenshots. We designed a framework, SpamHunter, to automatically recognize the reported spam SMS texts and URLs. Such dataset turns out to be more diverse and timely than existing spam SMS collections and threat intelligence engines, i.e., VirusTotal. We also designed an automatic evaluation framework to test the feasibility of these spam SMS texts against the existing anti-spam systems. Our submission has been accepted by CCS 2022 in the first cycle.
 
       - title: Domain Security
         #link: "#"
@@ -99,32 +99,32 @@ publications:
       - title: "Clues in Tweets: Twitter-Guided Discovery and Analysis of SMS Spam"
         link: https://arxiv.org/abs/2204.01233
         authors: Siyuan Tang, Xianghang Mi, Ying Li, Xiaofeng Wang, Kai Chen
-        conference: CCS, 2022
+        conference: CCS 2022
 
       - title: "Your Phone is My Proxy: Detecting and Understanding Mobile Proxy Networks"
         link: https://par.nsf.gov/servlets/purl/10273288
         authors: Xianghang Mi, Siyuan Tang, Zhengyi Li, Xiaojing Liao, Feng Qian, XiaoFeng Wang
-        conference: NDSS, 2021
+        conference: NDSS 2021
 
       - title: "Zombie Awakening: Stealthy Hijacking of Active Domains Through DNS Hosting Referral"
         link: https://www.xiaojingliao.com/uploads/9/7/0/2/97024238/ccs20-stalens.pdf
         authors: Eihal Alowaisheq, Siyuan Tang, Zhihao Wang, Fatemah Alharbi, Xiaojing Liao, XiaoFeng Wang
-        conference: CCS, 2020
+        conference: CCS 2020
 
       - title: "Cracking Wall of Confinement: Understanding and Analyzing Malicious Domain Takedowns"
         link: https://par.nsf.gov/servlets/purl/10098095
         authors: Eihal Alowaisheq, Peng Wang, Sumayah Alrwais, Xiaojing Liao, XaioFeng Wang, Tasneem Alowaisheq, XiangHang Mi, Siyuan Tang, Baojun Liu
-        conference: NDSS, 2019 (Distinguished Paper Award)
+        conference: NDSS 2019 (Distinguished Paper Award)
 
       - title: "Competitive Auctions for Cost-aware Cellular Traffic Offloading with Opti- mized Capacity Gain"
         link: https://ieeexplore.ieee.org/abstract/document/7524496
         authors: Yuan Zhang, Siyuan Tang, Tingting Chen, Sheng Zhong
-        conference: INFOCOM, 2016
+        conference: INFOCOM 2016
 
       - title: "Designing Secure and Dependable Mobile Sensing Mechanisms With Revenue Guarantees"
         link: https://ieeexplore.ieee.org/abstract/document/7265043
         authors: Yuan Zhang, He Zhang, Siyuan Tang, Sheng Zhong
-        conference: TIFS, 2016
+        conference: TIFS 2016
 
 #skills:
 #    title: Skills &amp; Proficiency
