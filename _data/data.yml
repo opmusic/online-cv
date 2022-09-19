@@ -98,7 +98,7 @@ publications:
     papers:
       - title: "Clues in Tweets: Twitter-Guided Discovery and Analysis of SMS Spam"
         link: https://arxiv.org/abs/2204.01233
-        authors: Siyuan Tang, Xianghang Mi, Ying Li, Xiaofeng Wang, Kai Chen
+        authors: Siyuan Tang, Xianghang Mi, Ying Li, XiaoFeng Wang, Kai Chen
         conference: CCS 2022
 
       - title: "Your Phone is My Proxy: Detecting and Understanding Mobile Proxy Networks"
