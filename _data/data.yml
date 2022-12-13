@@ -100,10 +100,6 @@ publications:
     title: Publications
     intro:
     papers:
-      - title: "Stealthy Peers: Understanding Security Risks of WebRTC-based Peer-Assisted Video Streaming"
-       	link: https://arxiv.org/abs/2212.02740
-	authors: Siyuan Tang, Eihal Alowaisheq, Xianghang Mi, Yi Chen, Xi- aoFeng Wang, Yanzhi Dou
-
       - title: "Clues in Tweets: Twitter-Guided Discovery and Analysis of SMS Spam"
         link: https://arxiv.org/abs/2204.01233
         authors: Siyuan Tang, Xianghang Mi, Ying Li, XiaoFeng Wang, Kai Chen
