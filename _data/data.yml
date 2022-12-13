@@ -101,7 +101,7 @@ publications:
     intro:
     papers:
       - title: "Selective Amnesia: On Efficient, High-Fidelity and Blind Unlearning of Trojan Backdoors"
-	link: ""
+	link: "#"
 	authors: Rui Zhu, Di Tang, Siyuan Tang, XiaoFeng Wang, Haixu Tang
 	conference: S & P (Oakland) 2023     
 
