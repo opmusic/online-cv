@@ -96,11 +96,6 @@ publications:
     title: Publications
     intro:
     papers:
-      
-      - title: "Selective Amnesia: On Efficient, High-Fidelity and Blind Unlearning of Trojan Backdoors"
-	link: _
-        authors: Rui Zhu, Di Tang, Siyuan Tang, Yongming Fan, Shiqing Ma, Haixu Tang, XiaoFeng Wang
-	conference: S & P (Oakland) 2023
 
       - title: "Clues in Tweets: Twitter-Guided Discovery and Analysis of SMS Spam"
         link: https://arxiv.org/abs/2204.01233
