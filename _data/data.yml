@@ -100,11 +100,6 @@ publications:
     title: Publications
     intro:
     papers:
-      - title: "Selective Amnesia: On Efficient, High-Fidelity and Blind Unlearning of Trojan Backdoors"
-	link: "#"
-	authors: Rui Zhu, Di Tang, Siyuan Tang, XiaoFeng Wang, Haixu Tang
-	conference: S & P (Oakland) 2023     
-
       - title: "Stealthy Peers: Understanding Security Risks of WebRTC-based Peer-Assisted Video Streaming"
        	link: https://arxiv.org/abs/2212.02740
 	authors: Siyuan Tang, Eihal Alowaisheq, Xianghang Mi, Yi Chen, Xi- aoFeng Wang, Yanzhi Dou
