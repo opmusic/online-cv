@@ -100,7 +100,12 @@ publications:
     title: Publications
     intro:
     papers:
+      - title: "Gradient Shaping: Understanding When Backdoor Inversion Fails"
+        link: ""
+	authors: Rui Zhu, Di Tang, Siyuan Tang, Yongming Fan, Shiqing Ma, Haixu Tang, XiaoFeng Wanig
+
       - title: "Selective Amnesia: On Efficient, High-Fidelity and Blind Unlearning of Trojan Backdoors"
+	link: ""
 	authors: Rui Zhu, Di Tang, Siyuan Tang, XiaoFeng Wang, Haixu Tang
 	conference: S & P (Oakland) 2023     
 
