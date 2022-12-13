@@ -80,16 +80,17 @@ projects:
     title: Research Projects
     intro: >
     assignments:
-      - title: AI Security
-       	#link: "#"
-	tagline: Another direction of my recent research focus on AI security, more specifically, backdoor attack & detection in neural network. Backdoor is a specific adversarial examples which can be injected into a well trained machine learning model by poisoning a small set of data. In our recent research, we identified some interesting and fundamental properties of backdoors in neural networks and proposed novel algorithms to defense/attack with the use of such properies..  
       - title: Mobile/Web SDK Security
-        #link: "#"
+        #link: "#hook"
         tagline: My previous research projects investigated the security impacts of mobile/web SDKs, including third-party proxy SDKs and P2P service SDKs. Through a large-scale scanning of over 2M Android APKs, we identified 963 Android apps integrated with third-party proxy SDKs, which utilize their customers as proxy peers without proper user consent. In another project, we also discovered 134 highly popular video websites and 38 Android apps integrated with a P2P video streaming service, which are proven to have serious security and privacy problems, including content pollution and IP leakage. Our findings revealed the concerning security issues on mobile/web SDKs, which may affect millions of end users. One of our work has been published by NDSS 2021 and the other is under peer review.
 
       - title: Threat Intelligence
         #link: "#"
         tagline: Another important issue of my research is threat intelligence. In this area, one of the kernel challenges is to collect the security intelligence timely. To resolve such challenge, we came up with a novel solution to collect threat intelligence from social networks like Twitter. In one of our research, we collected over 20K spam SMS from tweets attached with SMS screenshots. We designed a framework, SpamHunter, to automatically recognize the reported spam SMS texts and URLs. Such dataset turns out to be more diverse and timely than existing spam SMS collections and threat intelligence engines, i.e., VirusTotal. We also designed an automatic evaluation framework to test the feasibility of these spam SMS texts against the existing anti-spam systems. Our submission has been accepted by CCS 2022 in the first cycle.
+
+      - title: AI Security
+        #link: "#"
+        tagline: Another direction of my recent research focus on AI security, more specifically, backdoor attack & detection in neural network. Backdoor is a specific adversarial examples which can be injected into a well trained machine learning model by poisoning a small set of data. In our recent research, we identified some interesting and fundamental properties of backdoors in neural networks and proposed novel algorithms to defense/attack with the use of such properies. 
 
       - title: Domain Security
         #link: "#"
