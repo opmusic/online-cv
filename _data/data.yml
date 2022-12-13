@@ -90,7 +90,7 @@ projects:
 
       - title: AI Security
         #link: "#"
-        tagline: Another direction of my recent research focus on AI security, more specifically, backdoor attack & detection in neural network. Backdoor is a specific adversarial examples which can be injected into a well trained machine learning model by poisoning a small set of data. In our recent research, we identified some interesting and fundamental properties of backdoors in neural networks and proposed novel algorithms to defense/attack with the use of such properies. 
+        tagline: Another direction of my recent research focus on AI security, more specifically, backdoor attack & detection in neural network. Backdoor is a specific type of adversarial examples which can be injected into a well trained machine learning model by poisoning a small set of data. In our recent research, we identified some interesting and fundamental properties of backdoors in neural networks and proposed novel algorithms to defense/attack with the use of such properies. 
 
 publications:
     title: Publications
